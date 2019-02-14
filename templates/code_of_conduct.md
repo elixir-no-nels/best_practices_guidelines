@@ -1,4 +1,4 @@
-[email_address]: you@example.com
+[email_address]: mailto:you@example.com
 
 
 
