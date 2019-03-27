@@ -4,9 +4,10 @@
 This repositry contains templates and guideline for best practices when developing software primary for the elixir-no nodes
 
 # Topics List
+- version control 
 - license
-- version control
 - readme files
+- version numbering
 - code of conduct
 - design overview
 - usage description (user manual?)
@@ -24,7 +25,7 @@ This repositry contains templates and guideline for best practices when developi
 
 # Misc
 [Code of conduct](templates/code_of_conduct.md)
-
+[Semantic versioning](https://semver.org/)
 
 
 
