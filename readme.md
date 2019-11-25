@@ -20,12 +20,12 @@ This repositry contains templates and guideline for best practices when developi
 
 
 # Choose a licence
-[Overview](https://choosealicense.com/licenses/)
-[Lesson](https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html)
+- [Overview](https://choosealicense.com/licenses/)
+- [Lesson](https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html)
 
 # Misc
-[Code of conduct](templates/code_of_conduct.md)
-[Semantic versioning](https://semver.org/)
+- [Code of conduct](templates/code_of_conduct.md)
+- [Semantic versioning](https://semver.org/)
 
 
 
